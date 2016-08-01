@@ -1,0 +1,7 @@
+{
+	"PS4ip":"192.168.1.170",
+	"PS4port":9023,
+	"PayloadFile":"exploit.bin",
+	"LogPort":30,
+	"DumpPort":31
+}
